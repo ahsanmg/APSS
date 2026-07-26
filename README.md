@@ -21,7 +21,7 @@ Prebuilt binaries are hosted in [v0.1 release](https://github.com/ahsanullah-8bi
 ### Prerequisites
 
 #### Tools
-* MSVC (last built with v18.2.1)
+* MSVC (last built with v14.50)
 * CMake
 * Ninja (or any other generator)
 * [VCPKG](https://learn.microsoft.com/en-us/vcpkg/get_started/overview) (optional)
